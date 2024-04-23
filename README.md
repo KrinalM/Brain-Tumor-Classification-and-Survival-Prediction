@@ -46,7 +46,7 @@ To use the code in this repository, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/goutham-senapathi/5082-Project.git
+   https://github.com/KrinalM/Brain-Tumor-Classification-and-Survival-Prediction.git
 
 2. To install the libraries
    ```bash
